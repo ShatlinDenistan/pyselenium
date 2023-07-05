@@ -1,7 +1,7 @@
 
-# Test Automation repository for catalogue core mh migration storefront tests
+# Test Automation repository for creating quick selenium based tests and to generate code for automation
 
-This repo is the collection of automated UI tests for catalogue core mh migration storefront tests
+This repo is the collection of automated UI tests mainly used to create quick automation tests and to expand on the code generation utility "Scripter" in the utils folder
 
 ##  Setup
 
