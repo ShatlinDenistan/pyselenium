@@ -1,0 +1,3 @@
+DEFAULT = 5
+SHORT = 7
+LONG = 20

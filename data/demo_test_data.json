@@ -1,0 +1,20 @@
+[
+    {
+        "firstname": "Cassidy",
+        "lastname": "Rocha",
+        "email": "dictum.phasellus.in@aol.ca",
+        "clinic_name": "clinic_name1",
+        "phone": "(478) 467-7794",
+        "job_title": "job_title1",
+        "country": "South Africa"
+    },
+    {
+        "firstname": "Burton",
+        "lastname": "Marquez",
+        "email": "nunc.pulvinar@icloud.com",
+        "clinic_name": "clinic_name2",
+        "phone": "1-345-315-2312",
+        "job_title": "job_title3",
+        "country": "South Africa"
+    }
+]
