@@ -42,8 +42,8 @@ def log_test_name():
 
 @pytest.fixture(scope="session", autouse=True)
 def create_log_summary_file():
-    if os.getenv("ENVIRONMENT") != "DEV":
-        return
+    # if os.getenv("ENVIRONMENT") != "DEV":
+    #     return
     for dirpath, dirnames, filenames in os.walk("./logs/screenshots"):
         for file in filenames:
             if fnmatch(file, "*.png"):
